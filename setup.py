@@ -16,7 +16,7 @@ setup(
     author='Fabian Grimme',
     author_email='fabian@mixd.tv',
     url='http://github.com/getsentry/sentry-simpletcp',
-    description='A Sentry extension which integrates a tcp connection to a give server.',
+    description='A Sentry extension which integrates a tcp connection to a given server.',
     long_description=__doc__,
     license='BSD',
     package_dir={'': 'src'},
