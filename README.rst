@@ -1,7 +1,8 @@
 sentry-simpletcp
 ===============
 
-An extension for Sentry that adds support for creating simple tcp connections
+An extension for Sentry that adds support for creating simple TCP connections.
+(Based on sentry-webhooks.)
 
 Install
 -------
